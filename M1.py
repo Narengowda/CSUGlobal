@@ -30,8 +30,12 @@ def div(num1, num2):
 if __name__ == '__main__':
     num1 = int(input("Enter first Number "))
     num2 = int(input("Enter second Number "))
+
+    # Part one
     print("Addition output = ", add(num1, num2))
     print("Substraction output = ", sub(num1, num2))
+
+    # Part Two
     print("Multiplication output = ", mul(num1, num2))
     print("Division output = ", div(num1, num2))
 

@@ -72,3 +72,5 @@ for i, data in enumerate(old_temp_reading): print("day", i, "reading = ", data)
 print("convert as list data type", temp_data.tolist())
 
 
+
+

@@ -13,7 +13,7 @@ Many people keep time using a 24-hour clock (11 is 11am and 23 is 11pm, 0 is mid
 
 # Part one
 # Ask for the charge of the food
-food_charge = float(input("Enter the charge for the food: "))
+food_charge = float(input("enter the amount for the food purchased: "))
 
 # Calculate the tip and sales tax
 tip = food_charge * 0.18
@@ -23,20 +23,20 @@ sales_tax = food_charge * 0.07
 total = food_charge + tip + sales_tax
 
 # Print the results
-print(f"Charge for food: {food_charge}")
-print(f"Tip (18%): {tip}")
-print(f"Sales Tax (7%): {sales_tax}")
-print(f"Total amount: {total}")
+print(f"charge for food: {food_charge}")
+print(f"tip (18%): {tip}")
+print(f"sales Tax (7%): {sales_tax}")
+print(f"total amount: {total}")
 
 
 
-print("Executing the Part two of the assignment")
+print("executing the Part two of the assignment")
 # Part Two
 # Read the current time and the number of hours to wait for the alarm from the user
-current_time = int(input("Enter the current time (in hours): "))
-hours_to_wait = int(input("Enter the number of hours to wait for the alarm: "))
+current_time = int(input("enter the current time (in hours): "))
+hours_to_wait = int(input("enter the number of hours to wait for the alarm: "))
 
-# Calculate the number of days
+# Calculate the no. of days
 # / division finds the number of days by coundting the times 24 is divisble
 alarm_days = hours_to_wait // 24
 
@@ -44,10 +44,11 @@ alarm_days = hours_to_wait // 24
 # % modulus find the time, by using the reminder
 alarm_time = (current_time + hours_to_wait) % 24
 
-# Check if the number of days is zero
+# Check if the number of days is zero, then print as today. it is much readble
 if alarm_days == 0:
-    print(f"The alarm will go off today at {alarm_time}")
-    print(f"Digital: 00 days {alarm_time}:00")
+    print(f"the alarm will go off today at {alarm_time}")
+    print(f"digital: 00 days {alarm_time}:00")
 else:
-    print(f"The alarm will go off in : {alarm_days} days at hour {alarm_time}")
-    print(f"Digital: {alarm_days} - {alarm_time}:00:00")
+    print(f"the alarm will go off in : {alarm_days} days at hour {alarm_time}")
+    print(f"digital: {alarm_days} - {alarm_time}:00:00")
+

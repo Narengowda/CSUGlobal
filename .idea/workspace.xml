@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="145866dd-9e8e-4c1a-a022-0374eaba7fa9" name="Changes" comment="m3 assignment">
-      <change afterPath="$PROJECT_DIR$/M3_numpy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M4_assignement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M5_assignment_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M5_assignment_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M5_operators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/M3_arrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/M3_arrays.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/M3_critical_thinking.py" beforeDir="false" afterPath="$PROJECT_DIR$/M3_critical_thinking.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/M4_loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/M4_loops.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,19 +46,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.M1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.M2_short-circuit-compund-expression.executor&quot;: &quot;Run&quot;,
-    &quot;Python.M3_arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Python.M3_critical_thinking.executor&quot;: &quot;Run&quot;,
-    &quot;Python.M3_numpy.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.M1.executor": "Run",
+    "Python.M2_short-circuit-compund-expression.executor": "Run",
+    "Python.M3_arrays.executor": "Run",
+    "Python.M3_critical_thinking.executor": "Run",
+    "Python.M3_numpy.executor": "Run",
+    "Python.M4_assignement.executor": "Run",
+    "Python.M5_assignment_1.executor": "Run",
+    "Python.M5_assignment_2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/n0l04et/PycharmProjects/CSUGlobal",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -101,8 +108,27 @@
       <option name="project" value="LOCAL" />
       <updated>1735145800350</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="m3 assignment">
+      <option name="closed" value="true" />
+      <created>1736299317157</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736299317157</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="m1 assignment" />

@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="145866dd-9e8e-4c1a-a022-0374eaba7fa9" name="Changes" comment="m3 assignment">
-      <change afterPath="$PROJECT_DIR$/M5_assignment_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M5_assignment_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M5_operators.py" afterDir="false" />
+    <list default="true" id="145866dd-9e8e-4c1a-a022-0374eaba7fa9" name="Changes" comment="m5 assignment">
+      <change afterPath="$PROJECT_DIR$/M6_assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M6_list_dict.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4_loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/M4_loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M5_operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/M5_operators.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +57,8 @@
     "Python.M4_assignement.executor": "Run",
     "Python.M5_assignment_1.executor": "Run",
     "Python.M5_assignment_2.executor": "Run",
+    "Python.M6_assignment.executor": "Run",
+    "Python.M6_list_dict.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -116,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736299317157</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="m5 assignment">
+      <option name="closed" value="true" />
+      <created>1736300941835</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1736300941835</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,7 +144,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="m1 assignment" />
     <MESSAGE value="m3 assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="m3 assignment" />
+    <MESSAGE value="m5 assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="m5 assignment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

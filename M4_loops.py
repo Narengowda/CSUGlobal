@@ -24,8 +24,21 @@ Python pseudocode example:
 urls = ["www.google.com", "www.uber.com", "www.microsoft.com"]
 
 for url in urls:
-    data = scrape_data(url)
-    process_data(data)
+    retry_count = 0
+    while retry_count < 3:
+        try:
+            data = scrape_data(url)
+            process_data(data)
+            break;
+        except Exception as e:
+            print(f"Error:{e}")
+            print("Retrying for {retry_count}")
+            retry_count += 1
+    else:
+        print(f"Failed to fetch {url}")
+
+
+
 
 This can be done in list comprehension too
 [process_data(data) for data in [scrape_data(url) for url in urls]]

@@ -4,11 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="145866dd-9e8e-4c1a-a022-0374eaba7fa9" name="Changes" comment="m6 assignment">
-      <change afterPath="$PROJECT_DIR$/M8_assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M8_discussion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CSUGlobal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CSUGlobal.iml" afterDir="false" />
+    <list default="true" id="145866dd-9e8e-4c1a-a022-0374eaba7fa9" name="Changes" comment="m8 assignment">
+      <change afterPath="$PROJECT_DIR$/CSC501-1/module_1_assignment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSC501-1/module_1_discussion.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS500/M1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M2_short-circuit-compund-expression.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS500/M2_short-circuit-compund-expression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3_arrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS500/M3_arrays.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3_critical_thinking.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS500/M3_critical_thinking.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3_numpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS500/M3_numpy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4_assignement.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS500/M4_assignement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4_loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS500/M4_loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M5_assignment_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS500/M5_assignment_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M5_assignment_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS500/M5_assignment_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M5_operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS500/M5_operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M6_assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS500/M6_assignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M6_list_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS500/M6_list_dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M7_assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS500/M7_assignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M7_discussions.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS500/M7_discussions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M8_assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS500/M8_assignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M8_discussion.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS500/M8_discussion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +46,12 @@
     &quot;assignee&quot;: &quot;Narengowda&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Narengowda/CSUGlobal.git&quot;,
-    &quot;accountId&quot;: &quot;ee8069c1-adc6-4e1a-9bc0-f13fc64222a1&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Narengowda/CSUGlobal.git",
+    "accountId": "82e22bea-ca68-4304-86b1-0d1f7956b441"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -73,6 +88,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CS500" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="M8_discussion" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -88,7 +106,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/M8_discussion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS500/M8_discussion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +128,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/M8_discussion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS500/M8_discussion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737420933189</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="m8 assignment">
+      <option name="closed" value="true" />
+      <created>1739050754744</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739050754744</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,13 +229,14 @@
     <MESSAGE value="m3 assignment" />
     <MESSAGE value="m5 assignment" />
     <MESSAGE value="m6 assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="m6 assignment" />
+    <MESSAGE value="m8 assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="m8 assignment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/M1.py</url>
+          <url>file://$PROJECT_DIR$/CS500/M1.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>

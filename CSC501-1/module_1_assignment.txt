@@ -1,0 +1,12 @@
+
+For my project I have selected the project "Design and development of an influencer Marketing platform" this platform will help brands to connect with influencers to create manage and analyze the markeing programs and camapigns. This product features tools to help
+
+1. discover the influencers
+2. campaign creation
+3. performance tracking
+4. Payments etc.
+
+The system allows to search for Influencers based on the audience type, location, age, engaement, content style and content itself.
+Influencers can showcase their profiles in the tool.
+The platform also incorporate the analytics tp help brands measure the capaign impact and performance using real time data points.
+This project shocases how technology can streamline influencer marketing , enhancing efficiency, collaboraton, and transparency for both brands and influencers.

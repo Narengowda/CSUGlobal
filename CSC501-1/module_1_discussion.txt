@@ -1,0 +1,17 @@
+Adaptive Agile approaches offer project management solutions that prioritize flexibility, customer satisfaction,
+and continuous improvement. but other traditional methods that depends on strict continuous workflows,
+Agile uses repeated development to break down projects into manageable sprints.
+
+This helps teams to work with features often by collecting feedback and work on the task quickly.
+In general the teams always plan the taska and processes, encouraging the teamwork and speed decision making.
+Quick collection of feedback allows fast adaptation to changing customer requirements or market requirements.
+  Eg: In retail ecommerce project. Agile would allow for continious customer involvement and continuous
+  release of features like product listing, recommendation, payment gateway integration etc. when trends
+  changes agile helps to quickly adopt to the change.
+
+Eg: Lets say you need to build a medical app for a hospital.
+by using adaptive agile approach in practice. teams work in short sprints to release
+the features focusing on the priority features required. Traditional method, required
+all requirement to gather and write in a continuous order, where no product will be available
+immedietly but all features will be available at once.
+
